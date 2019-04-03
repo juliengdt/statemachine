@@ -1,0 +1,9 @@
+{
+  "commitish" : "ed939d453fb501450a245767309c780f6420df37",
+  "iOS" : [
+    {
+      "name" : "SwiftState",
+      "hash" : "b4a59da46f68056aff76c2043ac8befe27fb7d989dd6f0471f0d00c2067d1ab3"
+    }
+  ]
+}

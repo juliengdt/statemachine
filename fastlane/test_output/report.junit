@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='com.statemachine.repositioningTests.xctest' tests='17' failures='0'>
+  <testsuite name='com_statemachine_repositioningTests.com_statemachine_repositioningTests' tests='17' failures='0'>
+    <testcase classname='com_statemachine_repositioningTests.com_statemachine_repositioningTests' name='testRepositioningWhenInboxIndoor' time='0.007'/>
+    <testcase classname='com_statemachine_repositioningTests.com_statemachine_repositioningTests' name='testRepositioningWhenInboxOutdoor' time='0.001'/>
+    <testcase classname='com_statemachine_repositioningTests.com_statemachine_repositioningTests' name='testRepositioningWhenInboxUnknownWithBadGPS' time='0.001'/>
+    <testcase classname='com_statemachine_repositioningTests.com_statemachine_repositioningTests' name='testRepositioningWhenInboxUnknownWithGoodGPS' time='0.001'/>
+    <testcase classname='com_statemachine_repositioningTests.com_statemachine_repositioningTests' name='testRepositioningWhenOutbox' time='0.001'/>
+    <testcase classname='com_statemachine_repositioningTests.com_statemachine_repositioningTests' name='testRoutingWhenInboxWithBadGPS' time='0.001'/>
+    <testcase classname='com_statemachine_repositioningTests.com_statemachine_repositioningTests' name='testRoutingWhenInboxWithBadGPSThenUserSaysIndoor' time='0.001'/>
+    <testcase classname='com_statemachine_repositioningTests.com_statemachine_repositioningTests' name='testRoutingWhenInboxWithBadGPSThenUserSaysIndoorThenConfirm' time='0.001'/>
+    <testcase classname='com_statemachine_repositioningTests.com_statemachine_repositioningTests' name='testRoutingWhenInboxWithBadGPSThenUserSaysOutdoor' time='0.001'/>
+    <testcase classname='com_statemachine_repositioningTests.com_statemachine_repositioningTests' name='testRoutingWhenInboxWithGoodGPS' time='0.001'/>
+    <testcase classname='com_statemachine_repositioningTests.com_statemachine_repositioningTests' name='testRoutingWhenInboxWithGoodGPSThenUserSaysIndoor' time='0.001'/>
+    <testcase classname='com_statemachine_repositioningTests.com_statemachine_repositioningTests' name='testRoutingWhenInboxWithGoodGPSThenUserSaysIndoorThenSendsHisPosition' time='0.001'/>
+    <testcase classname='com_statemachine_repositioningTests.com_statemachine_repositioningTests' name='testRoutingWhenInboxWithGoodGPSThenUserSaysIndoorThenSendsHisPositionThenConfirm' time='0.001'/>
+    <testcase classname='com_statemachine_repositioningTests.com_statemachine_repositioningTests' name='testRoutingWhenInboxWithGoodGPSThenUserSaysIndoorThenSendsHisPositionThenReSend' time='0.001'/>
+    <testcase classname='com_statemachine_repositioningTests.com_statemachine_repositioningTests' name='testRoutingWhenInboxWithGoodGPSThenUserSaysOutdoor' time='0.001'/>
+    <testcase classname='com_statemachine_repositioningTests.com_statemachine_repositioningTests' name='testRoutingWhenOutBox' time='0.001'/>
+    <testcase classname='com_statemachine_repositioningTests.com_statemachine_repositioningTests' name='testStateMachineWellInitialized' time='0.001'/>
+  </testsuite>
+</testsuites>
